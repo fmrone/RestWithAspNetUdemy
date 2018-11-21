@@ -13264,11 +13264,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\1. WORKFOLDER\\4. LABS\\ASP.NET CORE\\RestAPI\\Udemy\\RestWithAspNetUdemy\\Aula01\\Aula01.csproj",
+      "projectUniqueName": "C:\\1. WORKFOLDER\\4. LABS\\ASP.NET CORE\\RestAPI\\Udemy\\RestWithAspNetUdemy\\Aula 01 - Calculator\\Aula01\\Aula01.csproj",
       "projectName": "Aula01",
-      "projectPath": "C:\\1. WORKFOLDER\\4. LABS\\ASP.NET CORE\\RestAPI\\Udemy\\RestWithAspNetUdemy\\Aula01\\Aula01.csproj",
+      "projectPath": "C:\\1. WORKFOLDER\\4. LABS\\ASP.NET CORE\\RestAPI\\Udemy\\RestWithAspNetUdemy\\Aula 01 - Calculator\\Aula01\\Aula01.csproj",
       "packagesPath": "C:\\Users\\bsi90702\\.nuget\\packages\\",
-      "outputPath": "C:\\1. WORKFOLDER\\4. LABS\\ASP.NET CORE\\RestAPI\\Udemy\\RestWithAspNetUdemy\\Aula01\\obj\\",
+      "outputPath": "C:\\1. WORKFOLDER\\4. LABS\\ASP.NET CORE\\RestAPI\\Udemy\\RestWithAspNetUdemy\\Aula 01 - Calculator\\Aula01\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

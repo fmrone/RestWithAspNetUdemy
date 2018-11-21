@@ -9,3 +9,14 @@ C:\1. WORKFOLDER\4. LABS\ASP.NET CORE\RestAPI\Udemy\RestWithAspNetUdemy\Aula01\o
 C:\1. WORKFOLDER\4. LABS\ASP.NET CORE\RestAPI\Udemy\RestWithAspNetUdemy\Aula01\obj\Debug\netcoreapp2.0\Aula01.AssemblyInfo.cs
 C:\1. WORKFOLDER\4. LABS\ASP.NET CORE\RestAPI\Udemy\RestWithAspNetUdemy\Aula01\obj\Debug\netcoreapp2.0\Aula01.dll
 C:\1. WORKFOLDER\4. LABS\ASP.NET CORE\RestAPI\Udemy\RestWithAspNetUdemy\Aula01\obj\Debug\netcoreapp2.0\Aula01.pdb
+C:\1. WORKFOLDER\4. LABS\ASP.NET CORE\RestAPI\Udemy\RestWithAspNetUdemy\Aula 01 - Calculator\Aula01\bin\Debug\netcoreapp2.0\Aula01.deps.json
+C:\1. WORKFOLDER\4. LABS\ASP.NET CORE\RestAPI\Udemy\RestWithAspNetUdemy\Aula 01 - Calculator\Aula01\bin\Debug\netcoreapp2.0\Aula01.runtimeconfig.json
+C:\1. WORKFOLDER\4. LABS\ASP.NET CORE\RestAPI\Udemy\RestWithAspNetUdemy\Aula 01 - Calculator\Aula01\bin\Debug\netcoreapp2.0\Aula01.runtimeconfig.dev.json
+C:\1. WORKFOLDER\4. LABS\ASP.NET CORE\RestAPI\Udemy\RestWithAspNetUdemy\Aula 01 - Calculator\Aula01\bin\Debug\netcoreapp2.0\Aula01.dll
+C:\1. WORKFOLDER\4. LABS\ASP.NET CORE\RestAPI\Udemy\RestWithAspNetUdemy\Aula 01 - Calculator\Aula01\bin\Debug\netcoreapp2.0\Aula01.pdb
+C:\1. WORKFOLDER\4. LABS\ASP.NET CORE\RestAPI\Udemy\RestWithAspNetUdemy\Aula 01 - Calculator\Aula01\obj\Debug\netcoreapp2.0\Aula01.csprojAssemblyReference.cache
+C:\1. WORKFOLDER\4. LABS\ASP.NET CORE\RestAPI\Udemy\RestWithAspNetUdemy\Aula 01 - Calculator\Aula01\obj\Debug\netcoreapp2.0\Aula01.csproj.CoreCompileInputs.cache
+C:\1. WORKFOLDER\4. LABS\ASP.NET CORE\RestAPI\Udemy\RestWithAspNetUdemy\Aula 01 - Calculator\Aula01\obj\Debug\netcoreapp2.0\Aula01.AssemblyInfoInputs.cache
+C:\1. WORKFOLDER\4. LABS\ASP.NET CORE\RestAPI\Udemy\RestWithAspNetUdemy\Aula 01 - Calculator\Aula01\obj\Debug\netcoreapp2.0\Aula01.AssemblyInfo.cs
+C:\1. WORKFOLDER\4. LABS\ASP.NET CORE\RestAPI\Udemy\RestWithAspNetUdemy\Aula 01 - Calculator\Aula01\obj\Debug\netcoreapp2.0\Aula01.dll
+C:\1. WORKFOLDER\4. LABS\ASP.NET CORE\RestAPI\Udemy\RestWithAspNetUdemy\Aula 01 - Calculator\Aula01\obj\Debug\netcoreapp2.0\Aula01.pdb
