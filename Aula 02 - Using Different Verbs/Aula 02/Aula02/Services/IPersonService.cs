@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace Aula02.Services
 {
-    public interface IPerson
+    public interface IPersonService
     {
         Person Create(Person person);
         Person FindById(long id);

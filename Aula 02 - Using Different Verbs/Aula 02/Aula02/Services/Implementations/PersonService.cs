@@ -5,7 +5,7 @@ using Aula02.Model;
 
 namespace Aula02.Services.Implementations
 {
-    public class PersonService : IPerson
+    public class PersonService : IPersonService
     {
         //volatile: é zerada quando a aplicação é (re)iniciada
         private volatile int count; 
